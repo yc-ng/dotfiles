@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yeongchyuan.ng@gmail.com
+	name = Yeong Chyuan Ng
